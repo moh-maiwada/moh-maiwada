@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moh-maiwada
 - 👀 I’m interested in watching animes and series 
-- 🌱 I’m currently learning HTMl
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 🤝 muhammadbabamaiwada@gmail.com
 - 😄 Pronouns: ...
